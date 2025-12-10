@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShareefM1
 - 👀 I’m interested in technology and computers
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: shreefm2006@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Flamingos are not born pink. They gain this color over time due to their diet.
